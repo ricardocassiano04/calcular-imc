@@ -16,5 +16,5 @@ python3 calcular-imc.py
 
 #### Falta implementar:
 * Colocar tratamento de erros (não permitir valores fora da realidade, por exemplo);
-* Armazenar dados digitados num banco de dados sqlite;
+* Armazenar dados digitados num banco de dados SQLite ou PostgreSQL;
 * Criar um frontend.
